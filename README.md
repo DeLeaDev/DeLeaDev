@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DeLeaDev!
 - 👀 I’m interested in sysadmin tasks, automation, and much more.
 - 🌱 I’m currently learning automation with Python and Ansible.
-- 📫 How to reach me: you can contact me via email at deleadev@gmail.com or connect with me on LinkedIn 
+- 📫 How to reach me: you can contact me via email at deleadev@gmail.com or connect with me on LinkedIn.
 - 😄 Pronouns: Mss. Robots
 - ⚡ Fun fact: i love creating innovating projects in my free time.
 
