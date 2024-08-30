@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DeLeaDev!
-- 👀 I’m interested in sysadmin tasks, automation, and much more.
+- 👀 I’m interested in...
 - 🌱 I’m currently learning automation with Python and Ansible.
 - 📫 How to reach me: you can contact me via email at deleadev@gmail.com or connect with me on LinkedIn.
 - 😄 Pronouns: pio/pio
