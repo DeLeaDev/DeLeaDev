@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeLeaDev!
 - 👀 I’m interested in...
-- 🌱 I’m currently learning automation with Python and Ansible.
+- 🌱 I’m currently learning: life
 - 📫 How to reach me: you can contact me via email at deleadev@gmail.com or connect with me on LinkedIn.
 - 😄 Pronouns: pio/pio
 - ⚡ Fun fact: i love creating innovating projects in my free time.
